@@ -35,3 +35,8 @@
 .vend-column img {
     width: 50%;
 }
+
+.jumbotron {
+    display: flex;
+    flex-direction: row;
+}
